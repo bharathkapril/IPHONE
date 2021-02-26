@@ -1,0 +1,168 @@
+.navbar{
+    background-color:  #FCD34D;
+    padding: 5px;
+    /* position: sticky;
+    top: 0; */
+}
+.newmobtitle{
+    padding-left: 80px;
+}
+.nav > li >a{
+    text-decoration: none;
+    color: black;
+    
+}
+.purfeacon{
+    padding-right: 50px;
+}
+.pretty > .pretty1{
+    width: 800px;
+    padding: 50px;
+    margin: 20px;
+    padding-left: 0;
+    padding-top: 100px;
+}
+.subscribe-holder > .subs{
+    text-align: center;
+    border-radius: 30px;
+    color: white;
+    cursor: pointer;
+    background-color:  #FCD34D;
+    border: none;
+    padding: 10px;
+    margin-left: 15px;
+}
+.bannerimg{
+    position: absolute;
+    height: 500px;
+    width: auto;
+    padding-left: 50px;
+    left: 900px;
+    top: 80px;
+}
+.downloads{
+    background-color:  #FCD34D;
+    margin-top: 150px;
+    border-bottom: 400px;
+    padding-bottom: 150px;
+    text-align: center;
+}
+.downloads h3{
+    padding-top: 125px;
+}
+.downloads img{
+    width: 200px;
+    margin-top: 25px;
+}
+.features{
+    text-align: center;
+    padding-top: 100px;
+}
+.features > .feacon{
+    position: relative;
+}
+.featureiphone{
+    position: absolute;
+    height: 400px;
+    margin-top: 100px;
+    left: 250px;
+}
+.camera img{
+    position: absolute;
+    height: 50px;
+    top: 250px;
+    background-color: black;
+}
+.camera h4{
+    position: absolute;
+    top: 310px;
+    left: 570px;
+}
+.camera p{
+    position: absolute;
+    top: 350px;
+    left: 520px;
+}
+.processor img{
+    position: absolute;
+    height: 50px;
+    top: 250px;
+    left: 1100px;
+    background-color: black;
+}
+.processor h4{
+    position: absolute;
+    top: 310px;
+    left: 1040px;
+}
+.processor p{
+    position: absolute;
+    top: 350px;
+    left: 980px;
+}
+.display img{
+    position: absolute;
+    height: 50px;
+    left: 660px;
+    top: 400px;
+    background-color: black;
+}
+.display h4{
+    position: absolute;
+    left: 590px;
+    top: 460px;
+}
+.display p{
+    position: absolute;
+    left: 575px;
+    top: 500px;
+}
+.battery img{
+    position: absolute;
+    height: 50px;
+    left: 1100px;
+    top: 400px;
+    background-color: black;
+}
+.battery h4{
+    position: absolute;
+    left: 1070px;
+    top: 460px;
+}
+.battery p{
+    position: absolute;
+    left: 1040px;
+    top: 500px;
+}
+.footer{
+    background-color:  #FCD34D;
+    margin-top: 550px;
+    border-bottom: 400px;
+    padding-bottom: 80px;
+    text-align: center;
+}
+.footer h4{
+    padding-top: 15px;
+}
+.footer img{
+    width: 70px;
+    margin-top: 25px;
+}
+.copyright{
+    background-color: black;
+    color: gray;
+    margin-top: 0px;
+    border-bottom: 210px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+.copyright p{
+    padding-top: 15px;
+}
+.copyright a{
+    text-decoration: underline;
+    color: gray;
+}
+.links{
+    word-spacing: 10px;
+}
